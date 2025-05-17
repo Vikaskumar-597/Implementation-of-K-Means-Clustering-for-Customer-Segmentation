@@ -92,17 +92,31 @@ plt.show()
 ```
 
 ## Output:
+**Head Values**
+
 ![image](https://github.com/user-attachments/assets/61246783-d2f6-48bf-8f61-b0e9f8dd4918)
+
+**Dataframe Info**
 
 ![image](https://github.com/user-attachments/assets/e896c8b1-c55c-4c13-af46-c6f5cd528a3c)
 
+**Sum - Null Values**
+
 ![image](https://github.com/user-attachments/assets/8d7effb9-e7ae-4ff9-911f-0fb828f40786)
+
+**Elbow Graph**
 
 ![image](https://github.com/user-attachments/assets/fd69fbac-1032-4b35-9b6d-fc90725f68e4)
 
+**Training the model**
+
 ![image](https://github.com/user-attachments/assets/a6b4c6a3-7c6b-4d4e-8b7f-7657b379f12f)
 
+**Predicting cluster Labels**
+
 ![image](https://github.com/user-attachments/assets/75781f09-1a18-459a-8626-76f6c515ec11)
+
+**Visualizing Customer Labels**
 
 ![image](https://github.com/user-attachments/assets/82c34995-e6c0-4601-b0c7-5bca06bde339)
 
